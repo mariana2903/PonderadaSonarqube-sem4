@@ -1,0 +1,1 @@
+C:\Users\Inteli\Documents\Projetos modulos\dotnet-sonarqube-example\.sonarqube\out\0
