@@ -1,7 +1,11 @@
 # Relátorio ponderada de sonarqube
 
-## Imagens de prova
+## Tecnologia SonarQube
+SonarQube é uma plataforma utilizada para realizar análises automáticas de código, identificando bugs e vulnerabilidades de segurança, além de oferecer métricas sobre a qualidade do código. Ele suporta várias linguagens de programação e se integra a ambientes de CI/CD, facilitando a manutenção da qualidade do código em projetos de desenvolvimento de software.
 
+Rodar o SonarQube em Docker simplifica o processo de instalação e configuração, tornando-o independente do ambiente. 
+
+## Imagens de prova
 
 ## Rodando o projeto através do terminal
 <img src="./Assets/image1.png"></img>
